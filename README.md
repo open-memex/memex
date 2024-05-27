@@ -1,6 +1,6 @@
 # Memex
 
-A conceptual device for storing, retrieving, and linking information using associative indexing, resembling human memory.
+A conceptual device for storing, retrieving, and linking information by using associative indexing that resembles human memory.
 
 ## Vision
 
